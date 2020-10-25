@@ -1,2 +1,0 @@
-# Yedibelascv12
-Yedibela
