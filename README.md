@@ -1,4 +1,4 @@
-endtime=load("return os.time{year=2020, month=10, day=27, hour=1,min=0, sec=0}")()
+endtime=load("return os.time{year=2020, month=10, day=30, hour=1,min=0, sec=0}")()
 if(os.time()>endtime) then
 gg.alert("[⚠️]  Script Süresi Dolmuştur @yedibelateam den alabilirsin [⚠️]")
 os.exit()
